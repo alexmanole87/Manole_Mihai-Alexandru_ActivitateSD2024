@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Manole_Mihai-Alexandru_ActivitateSD2024.cpp">
+    <ClCompile Include="Manole_Mihai-Alexandru_ActivitateSD2024.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
